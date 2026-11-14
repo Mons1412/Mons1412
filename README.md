@@ -12,11 +12,12 @@ I'm currently learning more about **CUDA, performance optimization, and reliable
   <a href="https://github.com/Mons1412?tab=repositories"><img alt="Explore my projects" src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/Mons1412/Hieu-hon-ve-CUDA"><img alt="CUDA RAG project" src="https://img.shields.io/badge/CUDA_RAG_Demo-00897B?style=for-the-badge&logo=python&logoColor=white"></a>
   <!-- Replace this badge with a clickable link when your portfolio website is publicly deployed. -->
-  <img <a href="https://mons1412.github.io/Le_Doan_Anh_Tuan_Portfolio/">
+  <a href="https://mons1412.github.io/Le_Doan_Anh_Tuan_Portfolio/">
   <img
     alt="My Portfolio"
     src="https://img.shields.io/badge/My_Portfolio-Visit_Website-00897B?style=for-the-badge&logo=githubpages&logoColor=white"
   >
+</a>
 </a> src="https://img.shields.io/badge/My_Portfolio-Coming_Soon-64748B?style=for-the-badge">
 </p>
 
