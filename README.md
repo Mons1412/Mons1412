@@ -17,6 +17,7 @@ I'm currently learning more about **CUDA, performance optimization, and reliable
     alt="My Portfolio"
     src="https://img.shields.io/badge/My_Portfolio-Visit_Website-00897B?style=for-the-badge&logo=githubpages&logoColor=white"
   >
+</a>
 </p>
 
 ## 🔧 Technologies & Tools
