@@ -1,6 +1,6 @@
 <!-- GitHub Profile README — inspired by MartinHeinz's clean structure, customized for Mons1412. -->
 
-# 👋 Hey there! I'm Toby.
+# 👋 Hey there! I'm Mons1412 but call me **Toby**.
 
 🎓 I'm a **Software Engineering student** from **Vietnam 🇻🇳** and a **Software Engineer** passionate about **AI and Systems Development**.
 
