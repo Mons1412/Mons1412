@@ -1,8 +1,8 @@
 <!-- GitHub Profile README — inspired by MartinHeinz's clean structure, customized for Mons1412. -->
 
-# 👋 Hey, I'm Mons1412!
+# 👋 Hey there! I'm Toby.
 
-**Software Engineering student · AI & Systems Development**
+🎓 I'm a **Software Engineering student** from **Vietnam 🇻🇳** and a **Software Engineer** passionate about **AI and Systems Development**.
 
 I enjoy building practical AI applications and exploring how software works under the hood — from **local LLMs and RAG** to **C++, Linux, and GPU computing**.
 
