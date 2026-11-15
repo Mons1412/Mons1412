@@ -54,15 +54,24 @@ I'm currently learning more about **CUDA, performance optimization, and reliable
 
 > I focus on showing working demos, reproducible experiments, and honest limitations rather than claiming finished features that are still in progress.
 
+
 ## 📈 GitHub Stats
 
-<!-- Third-party stats widgets may occasionally be unavailable or rate-limited. -->
-<p align="left">
-  <img height="165" alt="Mons1412 GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Mons1412&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" />
-  <img height="165" alt="Most-used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mons1412&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" />
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Mons1412&show_icons=true&theme=transparent&hide_border=true"
+    alt="Mons1412 GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mons1412&layout=compact&theme=transparent&hide_border=true"
+    alt="Most-used languages across public repositories"
+    height="165"
+  />
 </p>
 
-<sub>Language statistics reflect repository contents, not proficiency. GitHub Achievements, when awarded, appear automatically in the profile sidebar.</sub>
+Language statistics reflect repository contents, not proficiency. GitHub Achievements, when awarded, appear automatically in the profile sidebar.
+
 
 ## 🌱 What I'm Exploring
 
