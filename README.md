@@ -9,15 +9,9 @@ I enjoy building practical AI applications and exploring how software works unde
 I'm currently learning more about **CUDA, performance optimization, and reliable AI systems**. My long-term goal is to work on GPU- and systems-oriented software.
 
 <p align="left">
-  <a href="https://github.com/Mons1412?tab=repositories"><img alt="Explore my projects" src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/Mons1412/Hieu-hon-ve-CUDA"><img alt="CUDA RAG project" src="https://img.shields.io/badge/CUDA_RAG_Demo-00897B?style=for-the-badge&logo=python&logoColor=white"></a>
-  <!-- Replace this badge with a clickable link when your portfolio website is publicly deployed. -->
-  <a href="https://mons1412.github.io/Le_Doan_Anh_Tuan_Portfolio/">
-  <img
-    alt="My Portfolio"
-    src="https://img.shields.io/badge/My_Portfolio-Visit_Website-00897B?style=for-the-badge&logo=githubpages&logoColor=white"
-  >
-</a>
+  <a href="https://mons1412.github.io/Le_Doan_Anh_Tuan_Portfolio/"><img alt="My Portfolio" src="https://img.shields.io/badge/My_Portfolio-Visit_Website-00897B?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://mons1412.github.io/Development-of-an-AI-Based-Lung-Disease-Detection-System-Using-Chest-X-Ray-Images_v.2.0/"><img alt="AI-Based Lung Disease Detection v2.0" src="https://img.shields.io/badge/LungXrayAI_v2.0-Project_Page-00897B?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://aquamarine-crepe-8d5904.netlify.app/"><img alt="VocaMini" src="https://img.shields.io/badge/VocaMini-Open_App-00897B?style=for-the-badge&logo=netlify&logoColor=white"></a>
 </p>
 
 ## 🔧 Technologies & Tools
@@ -47,9 +41,10 @@ I'm currently learning more about **CUDA, performance optimization, and reliable
 
 | Project | What I built / am building | Stack |
 | :--- | :--- | :--- |
-| **[Hieu-hon-ve-CUDA](https://github.com/Mons1412/Hieu-hon-ve-CUDA)** | Local CUDA documentation assistant with retrieval, source citations, evaluation tools, and an Ubuntu Docker demo (**v1.0.0**). | Python, Ollama, Qwen2.5, ChromaDB, FastAPI, Docker |
-| **AI-Based Lung Disease Detection v2.0** | Chest X-ray classification research prototype with API and prediction history; **not a clinical diagnostic product**. | TensorFlow/Keras, FastAPI, SQLite |
+| **[AI-Based Lung Disease Detection v2.0](https://github.com/Mons1412/Development-of-an-AI-Based-Lung-Disease-Detection-System-Using-Chest-X-Ray-Images_v.2.0)** | Chest X-ray classification research prototype with an API, analysis history, and PDF reporting; **not a clinical diagnostic product**. | TensorFlow/Keras, FastAPI, MySQL, Docker |
 | **[VocaMini](https://github.com/Mons1412/tu-vung)** | Vocabulary and pronunciation-practice app with recording and offline speech-recognition experiments. | JavaScript, Vosk |
+| **[My Portfolio](https://mons1412.github.io/Le_Doan_Anh_Tuan_Portfolio/)** | Bilingual, responsive personal website showcasing projects, experience, and downloadable résumés. | HTML, CSS, JavaScript, GitHub Pages |
+| **[Hieu-hon-ve-CUDA](https://github.com/Mons1412/Hieu-hon-ve-CUDA)** | Local CUDA documentation assistant with retrieval, source citations, evaluation tools, and an Ubuntu Docker demo (**v1.0.0**). | Python, Ollama, Qwen2.5, ChromaDB, FastAPI, Docker |
 | **CUDA Matrix Multiplication Optimizer** | In progress: C++ CPU baseline and benchmarks, with GPU-kernel optimization as a learning goal. | C++, Linux, performance benchmarking |
 
 > I focus on showing working demos, reproducible experiments, and honest limitations rather than claiming finished features that are still in progress.
